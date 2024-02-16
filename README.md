@@ -18,6 +18,7 @@ create a database called todoapp
 php artisan key:generate
 php artisan migrate
 then use the below endpoints to access the api
+while accessing the endpoints make sure your header contain Authorization which should be emmagbin
  </code></pre>
 
        
